@@ -11,7 +11,7 @@ A PyTorch GPT-style transformer for generating code using a token-level BPE toke
 - Token-level code generation with Byte-Pair Encoding (BPE)
 - Multi-layer GPT transformer with causal self-attention
 - Autoregressive generation
-- Mixed precision (FP16) training
+- Mixed precision  training
 - Gradient clipping and learning rate scheduling
 - Checkpoint saving and resuming
 
@@ -20,6 +20,6 @@ A PyTorch GPT-style transformer for generating code using a token-level BPE toke
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/codegen-transformer-advanced.git
-cd codegen-transformer-advanced
+git clone https://github.com/Oliprg3/LLM.git
+cd LLM
 pip install -r requirements.txt
